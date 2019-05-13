@@ -14,5 +14,4 @@ Libraries used :
   - EXOPlayer
   
   
-  Database and PHP files are included 
-  
+  Database and PHP files are included in movieApp folder  
